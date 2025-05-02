@@ -1,4 +1,4 @@
-**Project Name: Self-Supervised Learning for Clustering Arthritis Grades**
+Project Name: Self-Supervised Learning for Clustering Arthritis Grades
 
 This repository contains the code files associated with the pretraining and fine-tuning of SimCLR and DINO models. The project includes implementations of the following:
 
@@ -9,18 +9,19 @@ DINO: Implementation of the DINO self-supervised learning model, with code for b
 Files Included
 Below is an index of all the code files included in this repository for ease of navigation:
 
-256-Dimensional SimCLR Pretraining and Fine-Tuning:
-SimCLRPretrained256.py
-SimCLRClassification256.py
+1. 256-Dimensional SimCLR Pretraining and Fine-Tuning:
+- SimCLRPretrained256.py
+- SimCLRClassification256.py
 
-2D SimCLR Pretraining and Fine-Tuning:
-SimCLRPretrained2D.py
-SimCLRClassification2D.py
+2. 2D SimCLR Pretraining and Fine-Tuning:
+- SimCLRPretrained2D.py
+- SimCLRClassification2D.py
 
-256-Dimensional DINO Model Pretraining and Fine-Tuning:
-DiNoPretrain256.py
-DiNoClassification256.py
+3. 256-Dimensional DINO Model Pretraining and Fine-Tuning:
+- DiNoPretrain256.py
+- DiNoClassification256.py
 
-2D DINO Model Pretraining and Fine-Tuning:
-DiNoPretrain2D
-DiNoClassification2D
+4. 2D DINO Model Pretraining and Fine-Tuning:
+- DiNoPretrain2D
+- DiNoClassification2D
+
